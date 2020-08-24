@@ -1,0 +1,103 @@
+2020-08-24 17:37:43,654 INFO  [log] a213c691b9f3b4b0a34411a7a5a3eb55fcb101ec
+2020-08-24 17:37:43,733 INFO  [log] a213c691b9f3b4b0a34411a7a5a3eb55fcb101ec
+2020-08-24 17:37:44,391 INFO  [log] upskills_admin
+2020-08-24 17:37:44,403 INFO  [log] User logged in successfully
+2020-08-24 17:37:45,062 INFO  [log] {"success":1,"error":[],"data":[{"customer_id":1606,"customer_group_id":1,"name":"Demo User01","email":"sindhu99@gmail.com","newsletter":0,"status":1,"approved":"","safe":0,"ip":"","telephone":"1-541-754-3010","reward_points":0,"account_custom_field":[],"custom_fields":[],"affiliate":[],"addresses":[],"date_added":"20\/08\/2020"},{"customer_id":1607,"customer_group_id":1,"name":"Demo User01","email":"sindhu98@gmail.com","newsletter":0,"status":1,"approved":"","safe":0,"ip":"","telephone":"1-541-754-3010","reward_points":0,"account_custom_field":[],"custom_fields":[],"affiliate":[],"addresses":[],"date_added":"20\/08\/2020"},{"customer_id":1608,"customer_group_id":1,"name":"Demo User01","email":"sindhu97@gmail.com","newsletter":0,"status":1,"approved":"","safe":0,"ip":"","telephone":"1-541-754-3010","reward_points":0,"account_custom_field":[],"custom_fields":[],"affiliate":[],"addresses":[],"date_added":"20\/08\/2020"},{"customer_id":1609,"customer_group_id":1,"name":"Demo User01","email":"sindhu96@gmail.com","newsletter":0,"status":1,"approved":"","safe":0,"ip":"","telephone":"1-541-754-3010","reward_points":0,"account_custom_field":[],"custom_fields":[],"affiliate":[],"addresses":[],"date_added":"20\/08\/2020"},{"customer_id":1610,"customer_group_id":1,"name":"Demo User01","email":"sindhu95@gmail.com","newsletter":0,"status":1,"approved":"","safe":0,"ip":"","telephone":"1-541-754-3010","reward_points":0,"account_custom_field":[],"custom_fields":[],"affiliate":[],"addresses":[],"date_added":"20\/08\/2020"},{"customer_id":1611,"customer_group_id":1,"name":"Demo User01","email":"sindhu94@gmail.com","newsletter":0,"status":1,"approved":"","safe":0,"ip":"","telephone":"1-541-754-3010","reward_points":0,"account_custom_field":[],"custom_fields":[],"affiliate":[],"addresses":[],"date_added":"20\/08\/2020"},{"customer_id":1612,"customer_group_id":1,"name":"Demo User01","email":"sindhu77@gmail.com","newsletter":0,"status":1,"approved":"","safe":0,"ip":"","telephone":"1-541-754-3010","reward_points":0,"account_custom_field":[],"custom_fields":[],"affiliate":[],"addresses":[],"date_added":"20\/08\/2020"},{"customer_id":1613,"customer_group_id":1,"name":"Demo User01","email":"sindhu34@gmail.com","newsletter":0,"status":1,"approved":"","safe":0,"ip":"","telephone":"1-541-754-3010","reward_points":0,"account_custom_field":[],"custom_fields":[],"affiliate":[],"addresses":[],"date_added":"21\/08\/2020"},{"customer_id":1614,"customer_group_id":1,"name":"Demo User01","email":"sindhu777@gmail.com","newsletter":0,"status":1,"approved":"","safe":0,"ip":"","telephone":"1-541-754-3010","reward_points":0,"account_custom_field":[],"custom_fields":[],"affiliate":[],"addresses":[],"date_added":"21\/08\/2020"},{"customer_id":1615,"customer_group_id":1,"name":"Demo User01","email":"sindhu452@gmail.com","newsletter":0,"status":1,"approved":"","safe":0,"ip":"","telephone":"1-541-754-3010","reward_points":0,"account_custom_field":[],"custom_fields":[],"affiliate":[],"addresses":[],"date_added":"21\/08\/2020"},{"customer_id":1616,"customer_group_id":1,"name":"Demo User01","email":"sindhu788@gmail.com","newsletter":0,"status":1,"approved":"","safe":0,"ip":"","telephone":"1-541-754-3010","reward_points":0,"account_custom_field":[],"custom_fields":[],"affiliate":[],"addresses":[],"date_added":"21\/08\/2020"},{"customer_id":1617,"customer_group_id":1,"name":"Demo User01","email":"sindhu455@gmail.com","newsletter":0,"status":1,"approved":"","safe":0,"ip":"","telephone":"1-541-754-3010","reward_points":0,"account_custom_field":[],"custom_fields":[],"affiliate":[],"addresses":[],"date_added":"21\/08\/2020"},{"customer_id":1618,"customer_group_id":1,"name":"Demo User01","email":"sindhu799@gmail.com","newsletter":0,"status":1,"approved":"","safe":0,"ip":"","telephone":"1-541-754-3010","reward_points":0,"account_custom_field":[],"custom_fields":[],"affiliate":[],"addresses":[],"date_added":"21\/08\/2020"},{"customer_id":1619,"customer_group_id":1,"name":"Demo User01","email":"sindhu567@gmail.com","newsletter":0,"status":1,"approved":"","safe":0,"ip":"","telephone":"1-541-754-3010","reward_points":0,"account_custom_field":[],"custom_fields":[],"affiliate":[],"addresses":[],"date_added":"21\/08\/2020"},{"customer_id":1620,"customer_group_id":1,"name":"Demo User01","email":"sindhu899@gmail.com","newsletter":0,"status":1,"approved":"","safe":0,"ip":"","telephone":"1-541-754-3010","reward_points":0,"account_custom_field":[],"custom_fields":[],"affiliate":[],"addresses":[],"date_added":"21\/08\/2020"},{"customer_id":1621,"customer_group_id":1,"name":"Demo User01","email":"sindhu578@gmail.com","newsletter":0,"status":1,"approved":"","safe":0,"ip":"","telephone":"1-541-754-3010","reward_points":0,"account_custom_field":[],"custom_fields":[],"affiliate":[],"addresses":[],"date_added":"21\/08\/2020"},{"customer_id":1622,"customer_group_id":1,"name":"Demo User01","email":"sindhu967@gmail.com","newsletter":0,"status":1,"approved":"","safe":0,"ip":"","telephone":"1-541-754-3010","reward_points":0,"account_custom_field":[],"custom_fields":[],"affiliate":[],"addresses":[],"date_added":"21\/08\/2020"},{"customer_id":1623,"customer_group_id":1,"name":"Demo User01","email":"anjana.saroha@gmail.com","newsletter":0,"status":1,"approved":"","safe":0,"ip":"","telephone":"1-541-754-3010","reward_points":0,"account_custom_field":[],"custom_fields":[],"affiliate":[],"addresses":[],"date_added":"22\/08\/2020"},{"customer_id":1624,"customer_group_id":1,"name":"Krishna Kumar User01","email":"anjana123@gmail.com","newsletter":0,"status":1,"approved":"","safe":0,"ip":"","telephone":"0123456789","reward_points":0,"account_custom_field":[],"custom_fields":[],"affiliate":[],"addresses":[],"date_added":"22\/08\/2020"}]}
+2020-08-24 17:37:45,569 INFO  [log] id size 114
+2020-08-24 17:37:46,089 INFO  [log] []
+2020-08-24 17:37:46,096 INFO  [log] something went wrong
+2020-08-24 17:37:46,916 INFO  [log] upskills_admin
+2020-08-24 17:37:46,917 INFO  [log] Talent4$$
+2020-08-24 17:37:47,331 INFO  [log] []
+2020-08-24 17:37:47,362 INFO  [log] something went wrong
+2020-08-24 17:37:47,780 INFO  [log] []
+2020-08-24 17:37:47,780 INFO  [log] something went wrong
+2020-08-24 17:37:48,755 INFO  [log] []
+2020-08-24 17:37:48,757 INFO  [log] something went wrong
+2020-08-24 17:37:48,794 INFO  [log] Status: FAILED, time taken for TestCase was: 353 ms
+2020-08-24 17:37:48,820 INFO  [log] Number of test steps which ran: 1
+2020-08-24 17:37:49,386 INFO  [log] 3
+2020-08-24 17:37:49,387 INFO  [log] 6
+2020-08-24 17:37:49,723 INFO  [log] []
+2020-08-24 17:37:49,728 INFO  [log] something went wrong
+2020-08-24 17:37:49,757 INFO  [log] Status: FAILED, time taken for TestCase was: 315 ms
+2020-08-24 17:37:49,758 INFO  [log] Number of test steps which ran: 1
+2020-08-24 17:42:51,755 INFO  [log] 86f08ed3df3adecafc289d6045f141efb4f1d995
+2020-08-24 17:42:51,842 INFO  [log] 86f08ed3df3adecafc289d6045f141efb4f1d995
+2020-08-24 17:42:52,281 INFO  [log] upskills_admin
+2020-08-24 17:42:52,291 INFO  [log] User logged in successfully
+2020-08-24 17:42:53,065 INFO  [log] id size 114
+2020-08-24 17:42:53,889 INFO  [log] upskills_admin
+2020-08-24 17:42:53,889 INFO  [log] User logged in successfully
+2020-08-24 17:42:54,306 INFO  [log] {data=[], error=[Warning: E-Mail Address is already registered!], success=0}
+2020-08-24 17:42:54,321 INFO  [log] []
+2020-08-24 17:42:54,338 INFO  [log] []
+2020-08-24 17:42:56,340 INFO  [log] upskills_admin
+2020-08-24 17:42:56,355 INFO  [log] Talent4$$
+2020-08-24 17:42:56,855 INFO  [log] upskills_admin
+2020-08-24 17:42:56,856 INFO  [log] User logged in successfully
+2020-08-24 17:42:57,648 INFO  [log] upskills_admin
+2020-08-24 17:42:57,650 INFO  [log] User logged in successfully
+2020-08-24 17:42:58,049 INFO  [log] []
+2020-08-24 17:43:01,514 INFO  [log] upskills_admin
+2020-08-24 17:43:01,516 INFO  [log] User logged in successfully
+2020-08-24 17:43:01,978 INFO  [log] id size 114
+2020-08-24 17:43:02,397 INFO  [log] Status: FINISHED, time taken for TestCase was: 1062 ms
+2020-08-24 17:43:02,415 INFO  [log] Number of test steps which ran: 3
+2020-08-24 17:43:02,851 INFO  [log] upskills_admin
+2020-08-24 17:43:02,859 INFO  [log] User logged in successfully
+2020-08-24 17:43:03,447 INFO  [log] id size 114
+2020-08-24 17:43:03,785 INFO  [log] Status: FINISHED, time taken for TestCase was: 1129 ms
+2020-08-24 17:43:03,790 INFO  [log] Number of test steps which ran: 3
+2020-08-24 17:43:04,117 INFO  [log] upskills_admin
+2020-08-24 17:43:04,129 INFO  [log] User logged in successfully
+2020-08-24 17:43:04,603 INFO  [log] id size 114
+2020-08-24 17:43:05,042 INFO  [log] Status: FINISHED, time taken for TestCase was: 1141 ms
+2020-08-24 17:43:05,044 INFO  [log] Number of test steps which ran: 3
+2020-08-24 17:43:05,404 INFO  [log] upskills_admin
+2020-08-24 17:43:05,413 INFO  [log] User logged in successfully
+2020-08-24 17:43:05,840 INFO  [log] id size 114
+2020-08-24 17:43:06,234 INFO  [log] Status: FINISHED, time taken for TestCase was: 1020 ms
+2020-08-24 17:43:06,241 INFO  [log] Number of test steps which ran: 3
+2020-08-24 17:43:06,574 INFO  [log] upskills_admin
+2020-08-24 17:43:06,582 INFO  [log] User logged in successfully
+2020-08-24 17:43:07,219 INFO  [log] id size 114
+2020-08-24 17:43:07,567 INFO  [log] Status: FINISHED, time taken for TestCase was: 1248 ms
+2020-08-24 17:43:07,568 INFO  [log] Number of test steps which ran: 3
+2020-08-24 17:43:07,999 INFO  [log] 3
+2020-08-24 17:43:08,000 INFO  [log] 6
+2020-08-24 17:43:08,402 INFO  [log] upskills_admin
+2020-08-24 17:43:08,442 INFO  [log] User logged in successfully
+2020-08-24 17:43:08,821 INFO  [log] {data=[], error=[Warning: E-Mail Address is already registered!], success=0}
+2020-08-24 17:43:08,834 INFO  [log] []
+2020-08-24 17:43:08,849 INFO  [log] []
+2020-08-24 17:43:10,648 INFO  [log] Status: FINISHED, time taken for TestCase was: 1836 ms
+2020-08-24 17:43:10,651 INFO  [log] Number of test steps which ran: 4
+2020-08-24 17:43:10,990 INFO  [log] upskills_admin
+2020-08-24 17:43:10,990 INFO  [log] User logged in successfully
+2020-08-24 17:43:11,343 INFO  [log] {data=[], error=[Warning: E-Mail Address is already registered!], success=0}
+2020-08-24 17:43:11,346 INFO  [log] []
+2020-08-24 17:43:11,348 INFO  [log] []
+2020-08-24 17:43:12,622 INFO  [log] Status: FINISHED, time taken for TestCase was: 1534 ms
+2020-08-24 17:43:12,623 INFO  [log] Number of test steps which ran: 4
+2020-08-24 17:43:12,958 INFO  [log] upskills_admin
+2020-08-24 17:43:12,959 INFO  [log] User logged in successfully
+2020-08-24 17:43:13,317 INFO  [log] {data=[], error=[Warning: E-Mail Address is already registered!], success=0}
+2020-08-24 17:43:13,317 INFO  [log] []
+2020-08-24 17:43:13,322 INFO  [log] []
+2020-08-24 17:43:14,660 INFO  [log] Status: FINISHED, time taken for TestCase was: 1461 ms
+2020-08-24 17:43:14,664 INFO  [log] Number of test steps which ran: 4
+2020-08-24 17:43:14,999 INFO  [log] upskills_admin
+2020-08-24 17:43:14,999 INFO  [log] User logged in successfully
+2020-08-24 17:43:15,459 INFO  [log] {data=[], error=[Warning: E-Mail Address is already registered!], success=0}
+2020-08-24 17:43:15,474 INFO  [log] []
+2020-08-24 17:43:15,479 INFO  [log] []
+2020-08-24 17:43:16,839 INFO  [log] Status: FINISHED, time taken for TestCase was: 1489 ms
+2020-08-24 17:43:16,843 INFO  [log] Number of test steps which ran: 4
+2020-08-24 17:43:17,205 INFO  [log] upskills_admin
+2020-08-24 17:43:17,206 INFO  [log] User logged in successfully
+2020-08-24 17:43:17,555 INFO  [log] {data=[], error=[Warning: E-Mail Address is already registered!], success=0}
+2020-08-24 17:43:17,556 INFO  [log] []
+2020-08-24 17:43:17,560 INFO  [log] []
+2020-08-24 17:43:18,560 INFO  [log] Status: FINISHED, time taken for TestCase was: 1363 ms
+2020-08-24 17:43:18,562 INFO  [log] Number of test steps which ran: 4

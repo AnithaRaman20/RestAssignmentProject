@@ -1,0 +1,45 @@
+Status: FAILED
+Time Taken: 451
+Size: 5753
+Timestamp: Mon Aug 24 17:37:44 IST 2020
+TestStep: GetCustomerList
+
+----------------- Messages ------------------------------
+[Script Assertion 1] Exception evaluating property 'count' for java.util.ArrayList, Reason: groovy.lang.MissingPropertyException: No such property: count for class: java.lang.Integer
+
+----------------- Properties ------------------------------
+HTTP Version: HTTP/1.1
+Endpoint: http://rest-api.upskills.in
+Method: GET
+StatusCode: 200
+URL: http://rest-api.upskills.in/api/rest_admin/customers/added_from/2020-08-20/added_to/2020-08-23
+
+---------------- Request ---------------------------
+Authorization: [bearer a213c691b9f3b4b0a34411a7a5a3eb55fcb101ec]
+Connection: [Keep-Alive]
+User-Agent: [Apache-HttpClient/4.1.1 (java 1.5)]
+Host: [rest-api.upskills.in]
+Accept-Encoding: [gzip,deflate]
+
+GET http://rest-api.upskills.in/api/rest_admin/customers/added_from/2020-08-20/added_to/2020-08-23 HTTP/1.1
+Accept-Encoding: gzip,deflate
+Authorization: bearer a213c691b9f3b4b0a34411a7a5a3eb55fcb101ec
+Host: rest-api.upskills.in
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.1.1 (java 1.5)
+
+
+---------------- Response --------------------------
+Server: [LiteSpeed]
+Connection: [Keep-Alive]
+X-Pagination-Limit: [20]
+Set-Cookie: [OCSESSID=d3f3403f9e2a3b9f6bba26d0d6; path=/, language=en-gb; expires=Wed, 23-Sep-2020 12:07:43 GMT; Max-Age=2592000; path=/; domain=rest-api.upskills.in, currency=INR; expires=Wed, 23-Sep-2020 12:07:43 GMT; Max-Age=2592000; path=/; domain=rest-api.upskills.in]
+X-Total-Count: [19]
+X-Pagination-Page: [1]
+#status#: [HTTP/1.1 200 OK]
+Content-Length: [5753]
+Date: [Mon, 24 Aug 2020 12:07:43 GMT]
+X-Powered-By: [PHP/5.6.40]
+Content-Type: [application/json; charset=utf-8]
+
+{"success":1,"error":[],"data":[{"customer_id":1606,"customer_group_id":1,"name":"Demo User01","email":"sindhu99@gmail.com","newsletter":0,"status":1,"approved":"","safe":0,"ip":"","telephone":"1-541-754-3010","reward_points":0,"account_custom_field":[],"custom_fields":[],"affiliate":[],"addresses":[],"date_added":"20\/08\/2020"},{"customer_id":1607,"customer_group_id":1,"name":"Demo User01","email":"sindhu98@gmail.com","newsletter":0,"status":1,"approved":"","safe":0,"ip":"","telephone":"1-541-754-3010","reward_points":0,"account_custom_field":[],"custom_fields":[],"affiliate":[],"addresses":[],"date_added":"20\/08\/2020"},{"customer_id":1608,"customer_group_id":1,"name":"Demo User01","email":"sindhu97@gmail.com","newsletter":0,"status":1,"approved":"","safe":0,"ip":"","telephone":"1-541-754-3010","reward_points":0,"account_custom_field":[],"custom_fields":[],"affiliate":[],"addresses":[],"date_added":"20\/08\/2020"},{"customer_id":1609,"customer_group_id":1,"name":"Demo User01","email":"sindhu96@gmail.com","newsletter":0,"status":1,"approved":"","safe":0,"ip":"","telephone":"1-541-754-3010","reward_points":0,"account_custom_field":[],"custom_fields":[],"affiliate":[],"addresses":[],"date_added":"20\/08\/2020"},{"customer_id":1610,"customer_group_id":1,"name":"Demo User01","email":"sindhu95@gmail.com","newsletter":0,"status":1,"approved":"","safe":0,"ip":"","telephone":"1-541-754-3010","reward_points":0,"account_custom_field":[],"custom_fields":[],"affiliate":[],"addresses":[],"date_added":"20\/08\/2020"},{"customer_id":1611,"customer_group_id":1,"name":"Demo User01","email":"sindhu94@gmail.com","newsletter":0,"status":1,"approved":"","safe":0,"ip":"","telephone":"1-541-754-3010","reward_points":0,"account_custom_field":[],"custom_fields":[],"affiliate":[],"addresses":[],"date_added":"20\/08\/2020"},{"customer_id":1612,"customer_group_id":1,"name":"Demo User01","email":"sindhu77@gmail.com","newsletter":0,"status":1,"approved":"","safe":0,"ip":"","telephone":"1-541-754-3010","reward_points":0,"account_custom_field":[],"custom_fields":[],"affiliate":[],"addresses":[],"date_added":"20\/08\/2020"},{"customer_id":1613,"customer_group_id":1,"name":"Demo User01","email":"sindhu34@gmail.com","newsletter":0,"status":1,"approved":"","safe":0,"ip":"","telephone":"1-541-754-3010","reward_points":0,"account_custom_field":[],"custom_fields":[],"affiliate":[],"addresses":[],"date_added":"21\/08\/2020"},{"customer_id":1614,"customer_group_id":1,"name":"Demo User01","email":"sindhu777@gmail.com","newsletter":0,"status":1,"approved":"","safe":0,"ip":"","telephone":"1-541-754-3010","reward_points":0,"account_custom_field":[],"custom_fields":[],"affiliate":[],"addresses":[],"date_added":"21\/08\/2020"},{"customer_id":1615,"customer_group_id":1,"name":"Demo User01","email":"sindhu452@gmail.com","newsletter":0,"status":1,"approved":"","safe":0,"ip":"","telephone":"1-541-754-3010","reward_points":0,"account_custom_field":[],"custom_fields":[],"affiliate":[],"addresses":[],"date_added":"21\/08\/2020"},{"customer_id":1616,"customer_group_id":1,"name":"Demo User01","email":"sindhu788@gmail.com","newsletter":0,"status":1,"approved":"","safe":0,"ip":"","telephone":"1-541-754-3010","reward_points":0,"account_custom_field":[],"custom_fields":[],"affiliate":[],"addresses":[],"date_added":"21\/08\/2020"},{"customer_id":1617,"customer_group_id":1,"name":"Demo User01","email":"sindhu455@gmail.com","newsletter":0,"status":1,"approved":"","safe":0,"ip":"","telephone":"1-541-754-3010","reward_points":0,"account_custom_field":[],"custom_fields":[],"affiliate":[],"addresses":[],"date_added":"21\/08\/2020"},{"customer_id":1618,"customer_group_id":1,"name":"Demo User01","email":"sindhu799@gmail.com","newsletter":0,"status":1,"approved":"","safe":0,"ip":"","telephone":"1-541-754-3010","reward_points":0,"account_custom_field":[],"custom_fields":[],"affiliate":[],"addresses":[],"date_added":"21\/08\/2020"},{"customer_id":1619,"customer_group_id":1,"name":"Demo User01","email":"sindhu567@gmail.com","newsletter":0,"status":1,"approved":"","safe":0,"ip":"","telephone":"1-541-754-3010","reward_points":0,"account_custom_field":[],"custom_fields":[],"affiliate":[],"addresses":[],"date_added":"21\/08\/2020"},{"customer_id":1620,"customer_group_id":1,"name":"Demo User01","email":"sindhu899@gmail.com","newsletter":0,"status":1,"approved":"","safe":0,"ip":"","telephone":"1-541-754-3010","reward_points":0,"account_custom_field":[],"custom_fields":[],"affiliate":[],"addresses":[],"date_added":"21\/08\/2020"},{"customer_id":1621,"customer_group_id":1,"name":"Demo User01","email":"sindhu578@gmail.com","newsletter":0,"status":1,"approved":"","safe":0,"ip":"","telephone":"1-541-754-3010","reward_points":0,"account_custom_field":[],"custom_fields":[],"affiliate":[],"addresses":[],"date_added":"21\/08\/2020"},{"customer_id":1622,"customer_group_id":1,"name":"Demo User01","email":"sindhu967@gmail.com","newsletter":0,"status":1,"approved":"","safe":0,"ip":"","telephone":"1-541-754-3010","reward_points":0,"account_custom_field":[],"custom_fields":[],"affiliate":[],"addresses":[],"date_added":"21\/08\/2020"},{"customer_id":1623,"customer_group_id":1,"name":"Demo User01","email":"anjana.saroha@gmail.com","newsletter":0,"status":1,"approved":"","safe":0,"ip":"","telephone":"1-541-754-3010","reward_points":0,"account_custom_field":[],"custom_fields":[],"affiliate":[],"addresses":[],"date_added":"22\/08\/2020"},{"customer_id":1624,"customer_group_id":1,"name":"Krishna Kumar User01","email":"anjana123@gmail.com","newsletter":0,"status":1,"approved":"","safe":0,"ip":"","telephone":"0123456789","reward_points":0,"account_custom_field":[],"custom_fields":[],"affiliate":[],"addresses":[],"date_added":"22\/08\/2020"}]}
